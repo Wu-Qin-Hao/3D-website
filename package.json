@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "author": "'wuqinhao' <'1539849378@qq.com'>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@types/three": "^0.172.0",
+    "three": "^0.172.0",
+    "umi": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
